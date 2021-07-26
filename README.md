@@ -7,13 +7,10 @@
 На тестирование затрачено: 30 мин.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/NinePage/3.1.1.1/issues/1
-* https://github.com/NinePage/3.1.1.1/issues/2
+* [Баг репорт 1](https://github.com/NinePage/3.1.1.1/issues/1)
+* [Баг репорт 2](https://github.com/NinePage/3.1.1.1/issues/2)
 
 ## Описание процесса тестирования
-
-В процессе тестирования использовались следующие артефакты:
-* Баг Репорты
 
 В качестве тестовых данных использовались данные [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * Сгенерированные номера банковских карт платежной системы VISA и Diners Club
